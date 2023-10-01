@@ -12,7 +12,7 @@ git clone https://github.com/pythonmentor/chat-example
 
 #### 2 - Install requirements
 ```
-cd mychat
+cd chat-example
 pipenv install --dev
 ```
 
